@@ -1,7 +1,8 @@
 # Question-Classification
-Question Classification on the TREC dataset using DistilBERT
+Question Classification on the TREC dataset using HuggingFace's pre-trained DistilBert model.
 
 Python = 3.7.6
+PyTorch
 
 Dataset: https://cogcomp.seas.upenn.edu/Data/QA/QC/
 
