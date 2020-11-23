@@ -13,6 +13,6 @@ pip install -r requirements.txt
 
 python Train_DistilBert.py
 
-3. In order to test the DistilBert model on your input run the following command:
+3. After training, in order to test the DistilBert model on your input run the following command:
 
 python Test_DistilBert.py
