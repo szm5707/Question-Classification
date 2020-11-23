@@ -3,6 +3,8 @@ Question Classification on the TREC dataset using DistilBERT
 
 Python = 3.7.6
 
+Dataset: https://cogcomp.seas.upenn.edu/Data/QA/QC/
+
 1. Run the following command in your terminal:
 
 pip install -r requirements.txt 
