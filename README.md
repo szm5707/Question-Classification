@@ -10,7 +10,7 @@ Dataset: https://cogcomp.seas.upenn.edu/Data/QA/QC/
 
 pip install -r requirements.txt 
 
-2. To train the model, run the following comand:
+2. To fine-tune the model, run the following comand:
 
 python Train_DistilBert.py
 
